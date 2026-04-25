@@ -1,0 +1,8 @@
+{
+  "name": "Stadium-AI-Guardian",
+  "description": "Multi-agent AI application for event management, monitoring live video feeds for crowd bottlenecks, anomalies, inventory, and security threats.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
